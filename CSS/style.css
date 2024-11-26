@@ -1,0 +1,29 @@
+body {
+    font-family: "Playfair Display", serif;
+    background-image: url(../4.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+p {
+    font-size: 32px;
+    color: black;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+
+.content h1 {
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.content .btn {
+    background-color: blue;
+    width: 250px;
+    height: 80px;
+    border-radius: 0;
+    border-bottom-style: outset;
+    border-bottom-color: rgb(0, 0, 0);
+    border-bottom-width: 2px;
+}
+.content .btn:hover {
+    background-color: green;
+}
